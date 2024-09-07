@@ -1,0 +1,35 @@
+h1{
+ border-style:solid;
+border-color:black;
+border-radius:5px;
+
+}
+figure{
+margin-left:20px;
+margin-right:20px;
+padding:26px;}
+figcaption{
+ text-align:center;
+
+}
+body
+{
+background-color:cyan;
+}
+
+h1
+{
+color:crimsons;
+
+text-align:center;
+}
+h2
+{
+color:black;
+text-decoration:underline;
+color:red;
+}
+p
+{
+text-align:center;
+}
